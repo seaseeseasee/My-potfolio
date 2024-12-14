@@ -50,12 +50,12 @@
     font-family: Arial, sans-serif;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
     padding: 20px 40px;
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(50, 124, 221, 0.5);
     border-radius: 20px;
     display: inline-block;
     max-width: 90%;
     padding: 20px 40px; /* เพิ่มพื้นที่ภายในกรอบ */
-    background-color: rgba(129, 203, 233, 0.5); /* เพิ่มพื้นหลังโปร่งแสง */
+    background-color: rgba(44, 69, 78, 0.5); /* เพิ่มพื้นหลังโปร่งแสง */
 }
 
 @keyframes sea {
